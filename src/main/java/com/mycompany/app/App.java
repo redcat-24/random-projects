@@ -6,7 +6,8 @@
 package com.mycompany.app;
 
 public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
-    }
+    // public static void main(String[] args) {
+    //     CircleRunner threadMain = new CircleRunner();
+    //     threadMain.run();
+    // }
 }

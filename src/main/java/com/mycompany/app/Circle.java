@@ -1,7 +1,6 @@
 package com.mycompany.app;
 import java.awt.*;
 import java.util.ArrayList;
-import com.mycompany.app.StdDraw;
 
 public class Circle
 {
